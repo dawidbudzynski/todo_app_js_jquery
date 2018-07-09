@@ -1,4 +1,4 @@
-# todo_app_js_jquery
+# To-Do List
 
 **To-Do List application. Made in JavaScript using jQuery**
 
